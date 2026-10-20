@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 # 🌸 Hi ~ I'm Nancyyy311
 
-<!-- 卡通贴纸（VSCode IDEA Docker） -->
-<img src="https://skillicons.dev/icons?i=vscode,idea,docker" />
-
 ## ABOUT ME
 - 🏫 河海大学 | 计算机科学与技术 (28届)
 - 🎯 求职意向：2028届校招 · Java后端开发 | AI Agent 
