@@ -18,50 +18,26 @@ Here are some ideas to get you started:
 
 # 🌸 Hi ~ I'm Nancyyy311
 
-<!-- 第一行标签 -->
-
-
-
-
-
-
+![Java](https://shields.vercel.app/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://shields.vercel.app/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://shields.vercel.app/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MyBatis](https://shields.vercel.app/badge/MyBatis-%23007396.svg?style=for-the-badge&logo=mybatis&logoColor=white)
 
 
 <br>
 
-<!-- 第二行标签 -->
-
-
-
-
-
+![MySQL](https://shields.vercel.app/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://shields.vercel.app/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://shields.vercel.app/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 <br>
 
-<!-- 第三行标签 -->
+![Maven](https://shields.vercel.app/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://shields.vercel.app/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://shields.vercel.app/badge/IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Linux](https://shields.vercel.app/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 
-
-
-<br>
-
-<!-- 第四行标签 -->
-
-
-
-
-
-
-
-<br>
-
-<!-- 第五行标签 -->
-
-
-
-
-
-<br>
 
 <!-- 卡通贴纸（VSCode IDEA Docker） -->
 <img src="https://skillicons.dev/icons?i=vscode,idea,docker" />
